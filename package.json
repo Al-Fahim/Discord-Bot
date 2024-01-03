@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "@discordjs/voice": "^0.7.0",
+    "discord-api-types": "^0.37.66",
+    "discord.js": "^14.0.1",
+    "libsodium-wrappers": "^0.7.13",
+    "ytdl-core": "^4.11.5"
+  },
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "main": "Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
